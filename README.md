@@ -597,4 +597,358 @@ Languages:
 </div>
 
 ---
+# 🐍 Contribution Snake
+
+<p align="center">
+
+<img src="https://github.com/degalapardhiv/degalapardhiv/blob/output/github-contribution-grid-snake-dark.svg">
+
+</p>
+# 📊 GitHub Stats
+
+<p align="center">
+
+<img height="170"
+src="https://github-readme-stats.vercel.app/api?username=degalapardhiv&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170"
+src="https://github-readme-streak-stats.herokuapp.com/?user=degalapardhiv&theme=tokyonight&hide_border=true"/>
+
+</p>
+<p align="center">
+
+<img
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=degalapardhiv&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+<p align="center">
+
+<img
+src="https://github-profile-trophy.vercel.app/?username=degalapardhiv&theme=tokyonight&column=4&margin-w=15&margin-h=15"/>
+
+</p>
+<p align="center">
+
+<img
+src="https://github-readme-activity-graph.vercel.app/graph?username=degalapardhiv&theme=tokyo-night"/>
+
+</p>
+<p align="center">
+
+<img
+src="https://komarev.com/ghpvc/?username=degalapardhiv&style=for-the-badge"/>
+
+</p>
+<p align="center">
+
+<img
+src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&section=footer"/>
+
+</p>
+<!-- ========================================================= -->
+<!--                  ACHIEVEMENTS & GOALS                     -->
+<!-- ========================================================= -->
+
+# 🏅 Achievements
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=degalapardhiv&theme=algolia&no-frame=true&row=2&column=4"/>
+
+</div>
+
+---
+
+# 🚀 Featured Projects
+
+<div align="center">
+
+| Project | Description | Status |
+|----------|-------------|--------|
+| 🛡️ PhishGuard AI | AI-powered phishing URL detection | ✅ Completed |
+| 📧 AI Email Phishing Analyzer | Analyze phishing emails using AI | 🚧 In Progress |
+| 🔍 AI Vulnerability Scanner | Educational vulnerability scanner | 🚧 In Progress |
+| 🌐 ThreatIntelX | Threat intelligence learning project | 🚀 Active |
+
+</div>
+
+---
+
+# 🎯 Career Goals
+
+```text
+2026
+████████████████████░ 80%
+
+✓ Build AI Security Projects
+✓ Learn AI Red Teaming
+✓ Improve Python Skills
+✓ Contribute to Open Source
+✓ Grow GitHub Portfolio
+```
+
+---
+
+# 📚 Learning Journey
+
+- 🤖 AI Security
+- 🛡️ AI Red Teaming
+- 🔐 Web Security
+- ☁️ Cloud Security
+- 🐧 Linux
+- 🧠 Machine Learning for Cybersecurity
+- 🌐 Network Security
+
+---
+
+# 📈 Development Progress
+
+```text
+Python                    ██████████████░░░ 85%
+
+Cybersecurity             ████████████░░░░ 75%
+
+Linux                     ███████████░░░░░ 70%
+
+AI Security               ██████████░░░░░░ 65%
+
+Open Source               █████████░░░░░░░ 60%
+
+Documentation             ████████░░░░░░░░ 55%
+```
+
+---
+
+# 💻 Favorite Technologies
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,linux,git,github,vscode,docker,mongodb,mysql"/>
+
+</div>
+
+---
+
+# 🌟 Open Source Philosophy
+
+> **Learn continuously. Build responsibly. Share knowledge.**
+
+I enjoy creating practical cybersecurity projects to strengthen my skills, contribute to the developer community, and learn through hands-on experience.
+
+---
+
+# 📌 Current Interests
+
+- 🔐 Cybersecurity
+- 🤖 AI Security
+- 🛡️ AI Red Teaming
+- 🐍 Python Development
+- 🐧 Linux
+- 🌍 Open Source
+- 📊 Threat Intelligence
+- ⚡ Security Automation
+
+---
+
+<div align="center">
+
+### ⭐ Thanks for visiting my GitHub profile!
+
+</div>
+
+---
+<!-- ========================================================= -->
+<!--                    CONNECT WITH ME                        -->
+<!-- ========================================================= -->
+
+# 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://github.com/degalapardhiv">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/degala-pardhiv-87b234390">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+# 💻 Development Environment
+
+<div align="center">
+
+| Category | Technologies |
+|----------|--------------|
+| 💻 Languages | Python, C, C++, JavaScript, HTML, CSS |
+| 🐧 Operating Systems | Kali Linux, Ubuntu, Windows |
+| 🛠️ Tools | Git, GitHub, VS Code, Docker |
+| 🗄️ Databases | MySQL, MongoDB |
+| 🔐 Focus | AI Security, AI Red Teaming, Security Automation |
+
+</div>
+
+---
+
+# 🎯 2026 Objectives
+
+- 🚀 Build high-quality AI cybersecurity projects
+- 📚 Deepen knowledge of AI security and LLM security
+- 🤝 Contribute to open-source projects
+- 📝 Share educational cybersecurity content
+- 🌍 Collaborate with the security community
+
+---
+
+# 💡 Quote
+
+<div align="center">
+
+> **"Security is not a product—it's a continuous learning journey."**
+
+</div>
+
+---
+
+# ⭐ Support My Work
+
+If you find my projects useful:
+
+⭐ Star the repositories
+
+🍴 Fork them
+
+🤝 Contribute with ideas or improvements
+
+📢 Share them with others
+
+---
+
+# 📊 Profile Summary
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=degalapardhiv&theme=tokyonight"/>
+
+</div>
+
+---
+
+# 🎖️ GitHub Badges
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Open%20Source-Contributor-success?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Python-Developer-blue?style=for-the-badge&logo=python"/>
+
+<img src="https://img.shields.io/badge/Cybersecurity-Student-red?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Linux-Kali-purple?style=for-the-badge&logo=kalilinux"/>
+
+<img src="https://img.shields.io/badge/AI-Security-orange?style=for-the-badge"/>
+
+</div>
+
+---
+
+# 🚀 Thanks for Visiting
+
+<div align="center">
+
+## 👨‍💻 Happy Coding!
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000428,50:004e92,100:00c6ff&height=120&section=footer"/>
+
+</div>
+
+---
+<!-- ========================================================= -->
+<!--                    FINAL SECTION                          -->
+<!-- ========================================================= -->
+
+# 📌 Repository Highlights
+
+### 🔐 Cybersecurity
+
+- AI Security
+- AI Red Teaming
+- Threat Intelligence
+- Vulnerability Assessment
+- Security Automation
+
+---
+
+### 🤖 Artificial Intelligence
+
+- Machine Learning
+- LLM Security
+- AI-powered Security Tools
+- Prompt Security
+- AI Research
+
+---
+
+### 💻 Development
+
+- Python
+- FastAPI
+- Git
+- GitHub
+- Linux
+
+---
+
+# 🎯 Long-Term Goals
+
+✔ Build impactful AI-powered cybersecurity tools
+
+✔ Contribute to open-source security projects
+
+✔ Continuously improve Python and Linux skills
+
+✔ Learn advanced AI security and adversarial machine learning
+
+✔ Share knowledge with the cybersecurity community
+
+---
+
+# 📖 Currently Reading
+
+- AI Security
+- LLM Security
+- Prompt Injection Defense
+- OWASP Top 10
+- MITRE ATT&CK
+- Adversarial Machine Learning
+
+---
+
+# 🤝 Open Source
+
+I enjoy contributing to open-source projects, learning from the community, and building practical cybersecurity solutions.
+
+If you have ideas, suggestions, or improvements, feel free to open an issue or submit a pull request.
+
+---
+
+# 📬 Contact
+
+- GitHub: https://github.com/degalapardhiv
+- LinkedIn: https://www.linkedin.com/in/degala-pardhiv-87b234390
+
+---
+
+<div align="center">
+
+# ⭐ Thanks for Visiting!
+
+### If you like my work, consider ⭐ starring my repositories.
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:000428,25:004e92,50:00c6ff,75:004e92,100:000428&section=footer"/>
+
+</div>
 
