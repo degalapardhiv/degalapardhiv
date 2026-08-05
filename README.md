@@ -941,5 +941,407 @@ Mindset:
 </div>
 
 ---
+# 🐍 Contribution Snake
 
+<div align="center">
 
+<img src="https://github.com/degalapardhiv/degalapardhiv/blob/output/github-contribution-grid-snake-dark.svg" />
+
+</div>
+# ⚡ GitHub Metrics
+
+<div align="center">
+
+<img src="https://metrics.lecoq.io/degalapardhiv?template=classic&base.header=0&base.community=0&base.repositories=0&base.metadata=0&languages=1&isocalendar=1&activity=1&achievements=1&followup=1&stars=1&theme=tokyonight"/>
+
+</div>
+# 📅 Contribution Calendar
+
+<div align="center">
+
+<img src="https://ghchart.rshah.org/degalapardhiv"/>
+
+</div>
+# 🚀 Developer Highlights
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Python-Developer-3776AB?style=for-the-badge&logo=python"/>
+
+<img src="https://img.shields.io/badge/Linux-Enthusiast-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+
+<img src="https://img.shields.io/badge/Cybersecurity-Student-red?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Open%20Source-Contributor-success?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Always-Learning-blue?style=for-the-badge"/>
+
+</div>
+# 🎯 Current Focus
+
+```text
+🐍 Python Development
+
+🔐 Cybersecurity
+
+🤖 AI Security
+
+🐧 Linux
+
+🌍 Open Source
+
+📚 Continuous Learning
+```
+> **"Every project is an opportunity to learn, improve, and contribute."**
+
+## ✅ Profile Checklist
+
+- [x] Professional README
+- [x] Animated Banner
+- [x] Typing Animation
+- [x] Tech Stack
+- [x] GitHub Stats
+- [x] Activity Graph
+- [x] Contribution Snake
+- [x] Featured Projects
+- [x] Learning Roadmap
+- [x] Social Links
+
+<!-- ========================================================= -->
+<!--                    PREMIUM FOOTER                         -->
+<!-- ========================================================= -->
+
+# 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://github.com/degalapardhiv">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/degala-pardhiv-87b234390">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+# 💼 Looking For
+
+- 🤝 Open Source Collaboration
+- 🚀 AI Security Projects
+- 🛡️ Cybersecurity Research
+- 🐍 Python Development
+- 📚 Learning Opportunities
+
+---
+
+# 💡 Interests
+
+<div align="center">
+
+| Security | Development | AI |
+|-----------|-------------|----|
+| AI Security | Python | Machine Learning |
+| Network Security | FastAPI | LLM Security |
+| Secure Coding | Linux | AI Research |
+| Threat Intelligence | GitHub | Automation |
+
+</div>
+
+---
+
+# 📈 2026 Goals
+
+```text
+███████████████████████░ 95%
+
+✅ Build More Projects
+
+✅ Learn Advanced Cybersecurity
+
+✅ Master Python
+
+✅ Contribute to Open Source
+
+✅ Improve GitHub Portfolio
+
+🎯 Keep Learning Every Day
+```
+
+---
+
+# ❤️ Thanks for Visiting
+
+<div align="center">
+
+### ⭐ If you like my projects,
+
+### don't forget to ⭐ Star them!
+
+</div>
+
+---
+
+# ☕ Fun Facts
+
+```yaml
+Favorite Language:
+  Python
+
+Favorite OS:
+  Linux
+
+Favorite IDE:
+  VS Code
+
+Favorite Hobby:
+  Building Projects
+
+Always:
+  Learning Something New
+```
+
+---
+
+# 📌 Motto
+
+> **Learn. Build. Share. Repeat.**
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=gradient&section=footer"/>
+
+</div>
+
+<!-- ========================================================= -->
+<!--                     END OF README                         -->
+<!-- ========================================================= -->
+<!-- ========================================================= -->
+<!--                 PREMIUM EXTRA WIDGETS                     -->
+<!-- ========================================================= -->
+
+# 🌟 GitHub Skyline
+
+> Generate your GitHub Skyline:
+>
+> https://skyline.github.com/
+
+---
+
+# 🏅 Holopin Badges
+
+> Create a Holopin profile:
+>
+> https://holopin.io/
+
+After creating your profile:
+
+```md
+[![Holopin badges](https://holopin.me/YOUR_USERNAME)](https://holopin.io/@YOUR_USERNAME)
+```
+
+---
+
+# 💬 Random Developer Quote
+
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+
+</div>
+
+---
+
+# 📈 Coding Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=degalapardhiv&theme=tokyo-night"/>
+
+</div>
+
+---
+
+# 🌎 Visitor Counter
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=degalapardhiv&label=Visitors&style=for-the-badge"/>
+
+</div>
+
+---
+
+# ⚡ Tech Icons
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,linux,git,github,docker,mongodb,mysql,vscode,fastapi,flask"/>
+
+</div>
+
+---
+
+# 📊 GitHub Stats
+
+<div align="center">
+
+<img height="170"
+src="https://github-readme-stats.vercel.app/api?username=degalapardhiv&show_icons=true&theme=tokyonight"/>
+
+<img height="170"
+src="https://streak-stats.demolab.com?user=degalapardhiv&theme=tokyonight"/>
+
+</div>
+
+---
+
+# 🎯 Favorite Technologies
+
+```text
+🐍 Python
+
+🔐 Cybersecurity
+
+🤖 AI Security
+
+🐧 Linux
+
+🌍 Open Source
+
+⚙️ Git & GitHub
+```
+
+---
+
+# 💻 Development Principles
+
+```yaml
+Write:
+  Clean Code
+
+Learn:
+  Every Day
+
+Share:
+  Knowledge
+
+Build:
+  Practical Projects
+
+Improve:
+  Continuously
+```
+
+---
+
+# 📌 Personal Motto
+
+> **"Small improvements every day lead to big results."**
+
+---
+<!-- ========================================================= -->
+<!--                  FINAL PROFESSIONAL SECTION               -->
+<!-- ========================================================= -->
+
+# 📂 Profile Repository Structure
+
+```text
+degalapardhiv/
+│
+├── README.md
+│
+├── .github/
+│   └── workflows/
+│       └── snake.yml
+│
+├── assets/
+│   ├── banner.png
+│   ├── profile.png
+│   └── logo.png
+│
+└── LICENSE
+```
+
+---
+
+# 🚀 Current Focus
+
+- 🔐 Cybersecurity
+- 🤖 AI Security
+- 🐍 Python Development
+- 🐧 Linux
+- 🌍 Open Source
+- ☁️ Cloud Security
+
+---
+
+# 🎯 Career Objective
+
+Passionate Computer Science (Cybersecurity) student focused on building practical software, learning secure development practices, contributing to open source, and continuously improving technical skills through real-world projects.
+
+---
+
+# 📚 Learning Journey
+
+```text
+Python
+████████████████████ 100%
+
+Git & GitHub
+██████████████████░░ 90%
+
+Linux
+████████████████░░░░ 80%
+
+Cybersecurity
+███████████████░░░░░ 75%
+
+AI Security
+█████████████░░░░░░░ 65%
+
+Cloud
+██████████░░░░░░░░░░ 50%
+```
+
+---
+
+# 🌎 Let's Connect
+
+<p align="center">
+
+<a href="https://github.com/degalapardhiv">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://www.linkedin.com/in/degala-pardhiv-87b234390">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+</p>
+
+---
+
+# 💙 Thanks for Visiting
+
+<div align="center">
+
+### ⭐ Star repositories if you find them useful
+
+### 🤝 Open to learning and collaboration
+
+### 🚀 Always improving, one project at a time
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=gradient&section=footer"/>
+
+</div>
