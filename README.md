@@ -207,7 +207,7 @@ Cloud Security         ███████░░░░░░░░░ 50%
 <div align="center">
 
 <img height="180em"
-src="https://github-readme-stats.vercel.app/api?username=degalapardhiv&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
+src="https://github-readme-stats-steel-five-42.vercel.app/api?username=degalapardhiv&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
 
 <img height="180em"
 src="https://streak-stats.demolab.com?user=degalapardhiv&theme=tokyonight&hide_border=true"/>
