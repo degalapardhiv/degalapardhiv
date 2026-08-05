@@ -221,7 +221,7 @@ src="https://streak-stats.demolab.com?user=degalapardhiv&theme=tokyonight&hide_b
 <div align="center">
 
 <img height="180em"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=degalapardhiv&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+src="https://<img src="https://github-readme-stats-steel-five-42.vercel.app/api/top-langs/?username=degalapardhiv&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&v=1"/>/?username=degalapardhiv&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
 
 </div>
 
