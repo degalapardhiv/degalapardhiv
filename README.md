@@ -276,18 +276,11 @@ src="https://komarev.com/ghpvc/?username=degalapardhiv&label=Profile%20Views&sty
 </div>
 
 ---
-
-# ⚡ GitHub Highlights
+# 🏆 GitHub Achievements
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Public%20Repositories-Growing-success?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Open%20Source-Active-blue?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Python-Developer-yellow?style=for-the-badge&logo=python"/>
-
-<img src="https://img.shields.io/badge/Cybersecurity-Student-red?style=for-the-badge"/>
+<img src="https://github-profile-trophy-psi-one.vercel.app/?username=degalapardhiv&theme=tokyonight&no-frame=true&no-bg=true&column=4&margin-w=15&v=1"/>
 
 </div>
 
