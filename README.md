@@ -1,68 +1,66 @@
-<!-- Banner -->
+<div align="center">
+
+# <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=34&duration=3200&pause=800&color=00FF66&center=true&vCenter=true&width=900&lines=Degala+Pardhiv;Cybersecurity+%7C+AI+Security+%7C+Linux;AI+Red+Teaming+Learner;Open+Source+Builder;Always+Learning+%F0%9F%9A%80" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f172a,50:00ff66,100:00bcd4&text=DEGALA%20PARDHIV&fontColor=ffffff&fontAlignY=38&animation=fadeIn"/>
+
+![](https://komarev.com/ghpvc/?username=degalapardhiv&style=for-the-badge&color=00ff66)
+
+<img src="https://img.shields.io/github/followers/degalapardhiv?style=for-the-badge&logo=github"/>
+
+<img src="https://img.shields.io/github/stars/degalapardhiv?style=for-the-badge"/>
+
+</div>
+
+---
+
+# > whoami
+
+```bash
+$ whoami
+
+Name      : Degala Pardhiv
+Role      : B.Tech CSE (Cybersecurity)
+Focus     : AI Security • AI Red Teaming • Linux
+Status    : Building Open Source Projects
+Location  : India
+```
+
+---
+
+# About
+
+I'm a Cybersecurity student passionate about **AI Security, AI Red Teaming, Offensive Security, Linux, and Open Source**.
+
+I enjoy building practical security projects, exploring modern security technologies, and continuously improving my skills through hands-on learning.
+
+---
+
+# Tech Stack
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=DEGALA%20PARDHIV&fontAlign=50&fontAlignY=40&fontSize=50&animation=fadeIn&fontColor=ffffff&desc=Cybersecurity%20|%20AI%20Security%20|%20Red%20Teaming&descAlignY=60"/>
-</p>
 
-<h1 align="center">Hi 👋 I'm Degala Pardhiv</h1>
-
-<h3 align="center">
-Cybersecurity Student • AI Security • Red Teaming
-</h3>
-
-<p align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=750&lines=Cybersecurity+Student;AI+Security+Enthusiast;AI+Red+Teaming;Offensive+Security;Linux+Enthusiast;Always+Learning..." />
+<img src="https://skillicons.dev/icons?i=python,bash,c,cpp,java,js,html,css,react,nodejs,mongodb,mysql,git,github,docker,linux,vscode"/>
 
 </p>
 
 ---
 
-## 💫 About Me
-
-- 🎓 **B.Tech CSE (Cybersecurity) Student**
-- 🔐 Passionate about **Cybersecurity & AI Security**
-- 🤖 Learning **AI Red Teaming & LLM Security**
-- 🛡️ Exploring **Offensive Security & Penetration Testing**
-- 🐧 Linux Enthusiast
-- 🚀 Building practical security projects
-- 🎯 **Goal:** Become an **AI Red Team Specialist**
-
----
-
-## ⚡ Tech Stack
+# GitHub Dashboard
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=python,c,cpp,java,bash,linux,git,github,docker,html,css,js,react,nodejs,mongodb,mysql,vscode"/>
+<img height="170" src="https://github-readme-stats-steel-five-42.vercel.app/api?username=degalapardhiv&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+
+<img height="170" src="https://streak-stats.demolab.com?user=degalapardhiv&theme=tokyonight&hide_border=true"/>
 
 </p>
 
----
-
-## 📊 GitHub Stats
-
 <p align="center">
-
-<img height="170" src="https://github-readme-stats-steel-five-42.vercel.app/api?username=degalapardhiv&show_icons=true&theme=tokyonight&hide_border=true"/>
 
 <img height="170" src="https://github-readme-stats-steel-five-42.vercel.app/api/top-langs/?username=degalapardhiv&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
-
----
-
-## 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=degalapardhiv&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-## 📈 Contribution Graph
 
 <p align="center">
 
@@ -72,9 +70,63 @@ Cybersecurity Student • AI Security • Red Teaming
 
 ---
 
-## 🌐 Connect With Me
+# Current Interests
 
-<p align="center">
+- 🤖 AI Security
+- 🛡️ AI Red Teaming
+- 🔐 Cybersecurity
+- 🐧 Linux
+- 🌐 Web Security
+- ☁️ Cloud Security
+- 💻 Python Automation
+- 🚀 Open Source
+
+---
+
+# Featured Projects
+
+| Project | Description |
+|---------|-------------|
+| 🚀 CODSOFT | Internship projects and web development |
+| 🔐 AI Security | Learning and experimental security projects |
+| 🐧 Linux Utilities | Scripts and automation tools |
+| 💻 Open Source | Practical learning repositories |
+
+---
+
+# Currently Learning
+
+```text
+✓ AI Security
+✓ AI Red Teaming
+✓ LLM Security
+✓ Linux Internals
+✓ Web Security
+✓ Cloud Security
+✓ DevSecOps
+```
+
+---
+
+# Goals
+
+- 🎯 Become an AI Red Team Specialist
+- 🔐 Build practical cybersecurity tools
+- 🤖 Research AI Security
+- 🌍 Contribute to Open Source
+- 🚀 Publish impactful security projects
+
+---
+
+# Quote
+
+> **"Learn continuously. Build responsibly. Secure intelligently."**
+
+---
+
+<div align="center">
+
+# Connect
 
 <a href="https://github.com/degalapardhiv">
 <img src="https://skillicons.dev/icons?i=github"/>
@@ -84,18 +136,14 @@ Cybersecurity Student • AI Security • Red Teaming
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
-</p>
+<br><br>
 
----
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
 
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=degalapardhiv&style=for-the-badge&color=blue"/>
-
-</p>
+</div>
 
 <p align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=gradient"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:0f172a,50:00ff66,100:00bcd4"/>
 
 </p>
