@@ -1,0 +1,25 @@
+name: Generate GitHub Trophy
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+jobs:
+  trophy:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Generate Trophy
+        uses: ryo-ma/github-profile-trophy@master
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN_PAT }}
+        with:
+          username: degalapardhiv
+          theme: tokyonight
+          no-frame: true
+          no-bg: true
+          column: 4
