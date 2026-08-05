@@ -236,11 +236,6 @@ src="https://github-readme-activity-graph.vercel.app/graph?username=degalapardhi
 </div>
 
 ---
-## 📊 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats-steel-five-42.vercel.app/api?username=degalapardhiv&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&v=1"/>
-</p>
 
 ## 💻 Most Used Languages
 
