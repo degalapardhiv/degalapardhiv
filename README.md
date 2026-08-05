@@ -236,15 +236,17 @@ src="https://github-readme-activity-graph.vercel.app/graph?username=degalapardhi
 </div>
 
 ---
+## 📊 GitHub Stats
 
-# 📊 GitHub Summary
+<p align="center">
+<img src="https://github-readme-stats-steel-five-42.vercel.app/api?username=degalapardhiv&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&v=1"/>
+</p>
 
-<div align="center">
+## 💻 Most Used Languages
 
-<img
-src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=degalapardhiv&theme=tokyonight"/>
-
-</div>
+<p align="center">
+<img src="https://github-readme-stats-steel-five-42.vercel.app/api/top-langs/?username=degalapardhiv&layout=compact&theme=tokyonight&hide_border=true&v=1"/>
+</p>
 
 ---
 
