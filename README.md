@@ -288,7 +288,7 @@ src="https://komarev.com/ghpvc/?username=degalapardhiv&label=Profile%20Views&sty
 <!--          ACHIEVEMENTS • TROPHIES • CONTRIBUTIONS          -->
 <!-- ========================================================= -->
 
-# 🏆 GitHub Highlights
+# ⚡ GitHub Highlights
 
 <div align="center">
 
