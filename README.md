@@ -137,25 +137,13 @@ Version   :: Git & GitHub
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats-steel-five-42.vercel.app/api?username=degalapardhiv&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
+<img src="https://raw.githubusercontent.com/degalapardhiv/degalapardhiv/main/github-metrics.svg" alt="GitHub Metrics"/>
+
+</p>
+
+<p align="center">
 
 <img height="170" src="https://streak-stats.demolab.com?user=degalapardhiv&theme=tokyonight&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats-steel-five-42.vercel.app/api/top-langs/?username=degalapardhiv&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# Contribution Activity
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=degalapardhiv&theme=tokyo-night&hide_border=true"/>
 
 </p>
 
@@ -222,27 +210,23 @@ Cloud Security     ████████
 
 <p align="center">
 
-<a href="https://github.com/degalapardhiv/CODSOFT">
-<img src="https://github-readme-stats-steel-five-42.vercel.app/api/pin/?username=degalapardhiv&repo=CODSOFT&theme=tokyonight&hide_border=true"/>
+<a href="https://github.com/degalapardhiv/SmartITMonitor">
+<img src="https://img.shields.io/github/languages/top/degalapardhiv/SmartITMonitor?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/github/stars/degalapardhiv/SmartITMonitor?style=for-the-badge&logo=github"/>
 </a>
 
-<a href="https://github.com/degalapardhiv/github-readme-stats">
-<img src="https://github-readme-stats-steel-five-42.vercel.app/api/pin/?username=degalapardhiv&repo=github-readme-stats&theme=tokyonight&hide_border=true"/>
-</a>
-
-</p>
-
-<p align="center">
-
-<a href="https://github.com/degalapardhiv">
-<img src="https://github-readme-stats-steel-five-42.vercel.app/api/pin/?username=degalapardhiv&repo=YOUR_REPOSITORY_NAME&theme=tokyonight&hide_border=true"/>
-</a>
-
-<a href="https://github.com/degalapardhiv">
-<img src="https://github-readme-stats-steel-five-42.vercel.app/api/pin/?username=degalapardhiv&repo=YOUR_REPOSITORY_NAME&theme=tokyonight&hide_border=true"/>
+<a href="https://github.com/degalapardhiv/PhishGuard-AI">
+<img src="https://img.shields.io/github/languages/top/degalapardhiv/PhishGuard-AI?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/github/stars/degalapardhiv/PhishGuard-AI?style=for-the-badge&logo=github"/>
 </a>
 
 </p>
+
+- **[SmartITMonitor](https://github.com/degalapardhiv/SmartITMonitor)** — Enterprise real-time IT infrastructure monitoring dashboard built with React, FastAPI, PostgreSQL, Docker, Prometheus and Grafana.
+- **[PhishGuard-AI](https://github.com/degalapardhiv/PhishGuard-AI)** — AI-powered phishing URL detection system.
+- **[CODSOFT](https://github.com/degalapardhiv/CODSOFT)** — Web development projects and tasks.
+- **[PinnacleLabs](https://github.com/degalapardhiv/PinnacleLabs)** — JavaScript projects and labs.
+- **[SYNENT](https://github.com/degalapardhiv/SYNENT)** — Python projects and experiments.
 
 ---
 
@@ -480,7 +464,6 @@ Planned Certifications
 > **"Learn relentlessly. Build responsibly. Secure the future."**
 
 ---
----
 
 # Connect
 
@@ -492,10 +475,6 @@ Planned Certifications
 
 <a href="https://www.linkedin.com/in/degala-pardhiv-87b234390">
 <img src="https://skillicons.dev/icons?i=linkedin" height="50"/>
-</a>
-
-<a href="mailto:your-email@example.com">
-<img src="https://skillicons.dev/icons?i=gmail" height="50"/>
 </a>
 
 </p>
@@ -524,20 +503,6 @@ Planned Certifications
 
 ---
 
-# Profile
-
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=degalapardhiv&style=for-the-badge&color=00ff66"/>
-
-<img src="https://img.shields.io/github/followers/degalapardhiv?style=for-the-badge&logo=github"/>
-
-<img src="https://img.shields.io/github/stars/degalapardhiv?style=for-the-badge"/>
-
-</p>
-
----
-
 # Contribution Snake
 
 <p align="center">
@@ -546,7 +511,7 @@ Planned Certifications
 
 </p>
 
-> Enable the **Platane Snake GitHub Action** in your profile repository to generate this animation automatically.
+> Generated automatically by the **Platane Snake GitHub Action** in this repository.
 
 ---
 
